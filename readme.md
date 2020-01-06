@@ -50,7 +50,7 @@ UIReceiver-.-emailRetreiver
 
 #### 运行效果
 
-<img width="80%" src="imgs_readme/client.gif">
+<img width="80%" src="imgs_readme/client.png">
 
 
 
