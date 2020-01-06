@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/PyQt5" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/UIBrowser.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/UIContact.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/UIEditor.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/UILogin.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/UIMain.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/UIReceiver.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/UIReceiver.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/UISearch.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/UISet.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/UIWriter.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/auxFunctions.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/easySender.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/emailRetriever.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/emailSender.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/img" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/weather.py" charset="GBK" />
+  </component>
+</project>
