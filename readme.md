@@ -1,3 +1,6 @@
+This is an archived project just for personal memorization.
+这是一个备份项目，仅仅是为了纪念第一个软件程序。
+
 ## “WELLMAIL" 电子邮件客户端
 
 #### 作者
